@@ -1,3 +1,5 @@
+#EXAMPLE OF IF-ELIF-ELSE LADDER
+
 a=int(input("Enter first number:"))
 b=int(input("Enter second number:"))
 c=int(input("Enter third number:"))
@@ -7,4 +9,3 @@ elif b>=a and b>=c:
     print(f"{b} is the biggest")
 else:
     print(f"{c} is the biggest")
-    

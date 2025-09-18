@@ -1,3 +1,6 @@
+#EXAMPLE OF INPUT AND OUTPUT
+
+
 a=int(input ("Enter a number:"))
 b=int(input ("Enter a number:"))
 sum=a+b
